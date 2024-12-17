@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeedd95%2Fhit-counter&count_bg=%2357DF43&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visited&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 안녕하세요🖐️ 개발자 정형우 입니다!
-📧 **Email:** jeedd95@gmail.com
+📧 **Email:** jeedd95@gmail.com <br>
 📝 **Blog:** [velog.io/@jeedd95](https://velog.io/@jeedd95)
 
 
