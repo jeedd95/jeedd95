@@ -6,7 +6,8 @@
 
 ### 안녕하세요🖐️ 개발자 정형우 입니다!
 📧 **Email:** jeedd95@gmail.com<br>
-📝 **Blog:** [velog.io/@jeedd95](https://velog.io/@jeedd95)
+📝 **Blog:** [velog.io/@jeedd95](https://velog.io/@jeedd95)<br>
+🎖️ **Algorithm:** [solved.ac/profile/jeedd](https://solved.ac/profile/jeedd)
 
 ---
 ### Web
